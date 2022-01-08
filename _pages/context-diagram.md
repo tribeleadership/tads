@@ -7,6 +7,4 @@ title: "Context Diagram"
 
 <img 
     src="../assets/diagrams/context-diagram.drawio.svg"
-    alt="triangle with all three sides equal"
-    height="87"
-    width="100" />
+    alt="triangle with all three sides equal" />
