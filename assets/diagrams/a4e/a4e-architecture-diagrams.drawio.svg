@@ -1,0 +1,66 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="591px" height="351px" viewBox="-0.5 -0.5 591 351" content="&lt;mxfile&gt;&lt;diagram id=&quot;7s8F1_v_6iIZwggtH0mq&quot; name=&quot;Page-1&quot;&gt;rVbJbtswEP0aH21IlOXlaMtJ2kOLAC6QM01NJDaUqFL01q/vkCKtxUqKBjUSL28WzgzfG3sSJcXlSdEq/yZTEBMSpJdJtJsQEsbhAl8McvXIOmqQTPHUYS2w57/BgYFDjzyFuueopRSaV32QybIEpnsYVUqe+26vUvRPrWgGd8CeUXGPvvBU5w26IssW/wI8y/3J4WLdWArqnV0ndU5Tee5A0cMkSpSUunlXXBIQZnp+Lk3c4zvWW2EKSj0SIA8/zTzQQ1AGOfYNajCy+XdauDY3jEFdI/goFT5DIgvv9ONaOacXqURa0SvCO1lQXnqXHdRM8UpzWQ7SbUFrMBmf6bUwhZJgD+rE0WxuMlfymOUG5EWFIyfB5vmrsdAyNcXQWrtqClDM2HmpIVPUHoUzdblmTSWCHpB/toIJWQgcy/ZV2kNrfXU3uvh1lN4wrS3fNugQLqpLa8R3mXu1WQ4tELuxkdgbceSHYQBizcl9OOWnGxQ3yex4MVm868R2/XwJ6qNk/9pt+FG3LguTAsnQzTIhEbOPsdi4z4PefMZmMWzTXiAv35r7o3OYoqY1XPQsVfTM5aw+ZY3XTQKrm4xu8mhbJ8itMgXjG+IB55xr2FeoBQTOuK0Qy3UhnNlSZ0vZW2bDEtd7KUswE+FCJLdxRGGwCLeBm1QHf7UPxKngmZECQ8oj/RFQzO220MTVWsk36EQGuzhYmzoK0PQh5dqVpQAvjR5sSyawkigAK+PYMCiYmTEngf03DEosOIYt78HQfPIZ+uAYtozHUoYjZw8xMgKOphw5OxgUiX+eLd3d53baCRRSpgM5djyBxMkqs7qcdbqYu8Xsvpqmq5UDzu2iJ94p7y55v9KpW6jZLXu7f/GNI6X/6Dby+DqPfANUHOFzKywiKGqrr4E2R5d7sFHMSILpozKLdccp7tWifle1pK8uo8y+hO5Iby6D41fpxhkKnqYm/C+sNhdMj1rWTjB3ehkRpYewYqeziPwnnizJgCdhGN4TJV6PEGX+KZ60PwmsrfPLKnr4Aw==&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <a xlink:href="a4e-context.drawio.svg">
+            <rect x="80" y="230" width="240" height="120" rx="12" ry="12" fill="#1061b0" stroke="#0d5091" pointer-events="all"/>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 238px; height: 1px; padding-top: 290px; margin-left: 81px;">
+                            <div data-drawio-colors="color: #ffffff; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                                <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                    <font style="font-size: 16px">
+                                        <b>
+                                            Access For eCom
+                                        </b>
+                                    </font>
+                                    <div>
+                                        [Worldpay Domain]
+                                    </div>
+                                    <br/>
+                                    <div>
+                                        <font style="font-size: 11px">
+                                            <font color="#cccccc">
+                                                Access Better Payment Services through Simple APIs and Fast eCommerce integration services.
+                                            </font>
+                                        </font>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="200" y="294" fill="#ffffff" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                        Access For eCom...
+                    </text>
+                </switch>
+            </g>
+        </a>
+        <rect x="0" y="0" width="590" height="40" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 20px; margin-left: 295px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 32px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: nowrap;">
+                                <font style="font-size: 32px">
+                                    Access For eCom Architecture Diagrams
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="295" y="30" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="32px" text-anchor="middle">
+                    Access For eCom Architecture Diagrams
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
